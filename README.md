@@ -8,25 +8,14 @@ Aplicativo Android simples desenvolvido em Kotlin para calcular o IMC (Índice d
 - Cálculo automático do IMC
 - Exibição da classificação:
   - Abaixo do peso
-  - Peso normal
-  - Sobrepeso
+  - Peso ideal
+  - acima do peso
   - Obesidade
-
-## 🧮 Fórmula usada
-
-\[
-\text{IMC} = \frac{\text{peso (kg)}}{\text{altura (m)}^2}
-\]
 
 ## 🧑‍💻 Tecnologias utilizadas
 
 - Kotlin
-- Android SDK
 - Android Studio
-- AndroidX
-- `AppCompatActivity`
-- Intents para navegação entre telas
 
-## 🧩 Estrutura do projeto
 
 
